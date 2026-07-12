@@ -5,6 +5,7 @@ print("Integrantes: ")
 print("1. Walter Ernesto Vásquez Melara")
 print("--"*16)
 print("2. Sergio Emerson Quintanilla Flores(2026010545)")
+print("3. Joseline Yamileth Vásquez Cruz")
 print("--"*16)
 
 def opciones_menu():
