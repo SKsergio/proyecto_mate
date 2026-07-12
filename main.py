@@ -1,4 +1,4 @@
-from components import ejericicio2, ejercicio3, ejercicio5
+from components import ejercicio1, ejericicio2, ejercicio3, ejercicio5
 
 print("Programa de evaluacion numéricamente las fórmulas analíticas ")
 print("Integrantes: ")
@@ -24,7 +24,7 @@ def main():
         
         match opcion:
             case "1":
-                print("Llamarías a problema2.evaluar_problema()")
+                ejercicio1.derivada_trascendental()
 
             case '2':
                 ejericicio2.derivada_ciclica()
