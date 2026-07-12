@@ -2,7 +2,7 @@ from components import ejericicio2, ejercicio3, ejercicio5
 
 print("Programa de evaluacion numéricamente las fórmulas analíticas ")
 print("Integrantes: ")
-print("1. Walter Ernesto Bazque Melara")
+print("1. Walter Ernesto Vásquez Melara")
 print("--"*16)
 print("2. Sergio Emerson Quintanilla Flores(2026010545)")
 print("--"*16)
