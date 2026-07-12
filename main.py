@@ -33,7 +33,7 @@ def main():
                 ejercicio3.derivada_implicita_basica()
 
             case '4':
-                print("Llamarías a problema4.evaluar_problema()")
+                ejercicio4.derivada_implicita_trascendental()
 
             case '5':
                 ejercicio5.desarrollo()
