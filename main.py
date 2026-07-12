@@ -1,11 +1,11 @@
-from components import ejercicio1, ejericicio2, ejercicio3, ejercicio5
+from components import ejercicio1, ejericicio2, ejercicio3, ejercicio4, ejercicio5
 
 print("Programa de evaluacion numéricamente las fórmulas analíticas ")
 print("Integrantes: ")
 print("1. Walter Ernesto Vásquez Melara")
-print("--"*16)
 print("2. Sergio Emerson Quintanilla Flores(2026010545)")
 print("3. Joseline Yamileth Vásquez Cruz")
+print("4. Hector Samuel Guerrero Bonilla (2025010370)")
 print("--"*16)
 
 def opciones_menu():
