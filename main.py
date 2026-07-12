@@ -6,7 +6,7 @@ print("1. Walter Ernesto Vásquez Melara")
 print("2. Sergio Emerson Quintanilla Flores(2026010545)")
 print("3. Joseline Yamileth Vásquez Cruz")
 print("4. Hector Samuel Guerrero Bonilla (2025010370)")
-print("--"*16)
+print("5. Julio Agustin Garay Miranda")
 
 def opciones_menu():
     print("====Seleccione una opción====")
